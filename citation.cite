@@ -11,7 +11,7 @@
         "owner": "Leshang Chen",
         "repoName": "Data_citation_demo"
     },
-    "src/java_cup_new/": {
+    "src/java_cup_new": {
         "repoName": "alu01-corecover",
         "owner": "Chen Li",
         "committedDate": "2018-03-24T00:29:45Z",
