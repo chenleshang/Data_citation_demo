@@ -1,30 +1,30 @@
 {
-    "/": {
-        "authorList": [
-            "Yinjun Wu",
-            "Yanssie"
-        ],
-        "committedDate": "2018-09-04T02:35:20Z",
-        "url": "https://github.com/chenleshang/Data_citation_demo",
-        "commitID": "bbd248a",
-        "collabList": [],
-        "owner": "Leshang Chen",
-        "repoName": "Data_citation_demo"
-    },
-    "src/java_cup_new": {
-        "repoName": "alu01-corecover",
-        "owner": "Chen Li",
-        "committedDate": "2018-03-24T00:29:45Z",
-        "commitID": "5cc951e",
-        "url": "https://github.com/chenleshang/alu01-corecover",
-        "collabList": [],
-        "authorList": [
-            "Chen Li"
-        ]
-    },
+	"/": {
+		"authorList": [
+			"Yinjun Wu",
+			"Yanssie"
+		],
+		"committedDate": "2018-09-04T02:35:20Z",
+		"url": "https://github.com/chenleshang/Data_citation_demo",
+		"commitID": "bbd248a",
+		"collabList": [],
+		"owner": "Leshang Chen",
+		"repoName": "Data_citation_demo"
+	},
+	"src/java_cup_new": {
+		"repoName": "alu01-corecover",
+		"owner": "Chen Li",
+		"committedDate": "2018-03-24T00:29:45Z",
+		"commitID": "5cc951e",
+		"url": "https://github.com/chenleshang/alu01-corecover",
+		"collabList": [],
+		"authorList": [
+			"Chen Li"
+		]
+	},
 	"src/edu/upenn/cis/citation/ui": {
 		"repoName": "Data_citation_demo",
-		"owner": "Yanssie",
+		"owner": "Yinjun Wu",
 		"committedDate": "2017-06-16T20:57:06Z",
 		"commitID": "2dd6813",
 		"url": "https://github.com/chenleshang/Data_citation_demo",
