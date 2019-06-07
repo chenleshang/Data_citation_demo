@@ -33,5 +33,17 @@
 		"authorList": [
 			"Chen Li"
 		]
+	},
+	"src": {
+		"repoName": "Data_citation_demo",
+		"owner": "Leshang Chen",
+		"committedDate": "2019-02-12T18:29:36Z",
+		"commitID": "f26e9d3",
+		"url": "https://github.com/chenleshang/Data_citation_demo",
+		"collabList": [],
+		"authorList": [
+			"Yinjun Wu",
+			"Yanssie"
+		]
 	}
 }
