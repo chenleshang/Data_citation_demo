@@ -1,16 +1,4 @@
 {
-	"/": {
-		"authorList": [
-			"Yinjun Wu",
-			"Yanssie"
-		],
-		"committedDate": "2018-09-04T02:35:20Z",
-		"url": "https://github.com/chenleshang/Data_citation_demo",
-		"commitID": "bbd248a",
-		"collabList": [],
-		"owner": "Leshang Chen",
-		"repoName": "Data_citation_demo"
-	},
 	"src/java_cup_new": {
 		"repoName": "alu01-corecover",
 		"owner": "Chen Li",
