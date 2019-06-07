@@ -1,15 +1,15 @@
 {
-	"/": {	
-		"authorList": [	
-			"Yinjun Wu",	
-			"Yanssie"	
-		],	
-		"committedDate": "2018-09-04T02:35:20Z",	
-		"url": "https://github.com/chenleshang/Data_citation_demo",	
-		"commitID": "bbd248a",	
-		"collabList": [],	
-		"owner": "Leshang Chen",	
-		"repoName": "Data_citation_demo"	
+	"/": {
+		"authorList": [
+			"Yinjun Wu",
+			"Yanssie"
+		],
+		"committedDate": "2018-09-04T02:35:20Z",
+		"url": "https://github.com/chenleshang/Data_citation_demo",
+		"commitID": "bbd248a",
+		"collabList": [],
+		"owner": "Leshang Chen",
+		"repoName": "Data_citation_demo"
 	},
 	"src/java_cup_new": {
 		"repoName": "alu01-corecover",
@@ -56,6 +56,17 @@
 		"authorList": [
 			"Yinjun Wu",
 			"Yanssie"
+		]
+	},
+	"src/fr/lri/tao": {
+		"repoName": "Data_citation_demo",
+		"owner": "Leshang Chen",
+		"committedDate": "2018-08-16T13:16:45Z",
+		"commitID": "aacc93d",
+		"url": "https://github.com/chenleshang/Data_citation_demo",
+		"collabList": [],
+		"authorList": [
+			"Yinjun Wu"
 		]
 	}
 }
