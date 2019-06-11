@@ -68,5 +68,18 @@
 		"authorList": [
 			"Yinjun Wu"
 		]
+	},
+	"scripts": {
+		"authorList": [
+			"Yinjun Wu",
+			"Yanssie",
+			"Susan"
+		],
+		"committedDate": "2018-09-04T02:35:20Z",
+		"url": "https://github.com/chenleshang/Data_citation_demo",
+		"commitID": "bbd248a",
+		"collabList": [],
+		"owner": "Leshang Chen",
+		"repoName": "Data_citation_demo"
 	}
 }
